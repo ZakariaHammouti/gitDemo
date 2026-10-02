@@ -6,5 +6,8 @@ public class Main {
         System.out.println("Hello!");
         System.out.println("World");
 
+        System.out.println("Hello, World");
+        System.out.println("Hello, World");
+        int x = 1;
     }
 }
