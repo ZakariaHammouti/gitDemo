@@ -9,5 +9,9 @@ public class Main {
         System.out.println("Hello, World");
         System.out.println("Hello, World");
         int x = 1;
+        double y = 1;
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(y);
     }
 }
